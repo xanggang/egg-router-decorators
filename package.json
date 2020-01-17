@@ -1,0 +1,15 @@
+{
+  "name": "egg-router-decorators",
+  "version": "0.0.1",
+  "description": "egg路由装饰器",
+  "repository": "https://github.com/super2god/egg-shell-decorators.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xanggang <1057516363@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "reflect-metadata": "^0.1.13"
+  }
+}
